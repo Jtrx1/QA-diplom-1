@@ -1,7 +1,7 @@
-package praktikum;
-
 import org.junit.Assert;
 import org.junit.Test;
+import praktikum.IngredientType;
+
 public class IngredientTypeTest {
 
     @Test
